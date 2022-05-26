@@ -1,0 +1,10 @@
+nav {
+    text-align: end;
+    padding: 2%;
+    background-color: aquamarine;
+}
+
+li {
+    display: inline;
+    padding-inline-end: 2%;
+}
